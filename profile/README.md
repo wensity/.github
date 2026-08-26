@@ -29,18 +29,8 @@ your repository and it is yours to edit.
       <br><sub>Gooey Navigation Menu</sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/morphing-shape-background.gif" alt="Lava-lamp blobs drifting behind a hero section" width="100%">
-      <br><sub>Morphing Shape Background</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/text-shimmer.gif" alt="A highlight sweeping across a headline" width="100%">
       <br><sub>Text Shimmer</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/github-activity-grid.gif" alt="A contribution grid revealing with a shared tooltip" width="100%">
-      <br><sub>Activity Grid</sub>
     </td>
   </tr>
 </table>
