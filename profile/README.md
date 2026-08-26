@@ -27,7 +27,7 @@ npx wensity@latest add button
 
 | Repository | What it is |
 | --- | --- |
-| [registry](https://github.com/wensity/registry) | The public shadcn registry. 70 free components, UI primitives, fonts, and design tokens, all MIT |
+| [registry](https://github.com/wensity/registry) | The public shadcn registry. 91 free components, text animations, UI primitives, fonts, and design tokens, all MIT |
 | [cli](https://github.com/wensity/cli) | The `wensity` command line tool for installing components and applying Tailwind presets |
 | [nextjs-starter](https://github.com/wensity/nextjs-starter) | Next.js 16 and Tailwind v4 starter whose whole design system swaps from one preset code |
 
@@ -41,6 +41,8 @@ generative loading states for AI products.
 
 **UI primitives.** The standard accessible set built on Base UI, wired to a
 single token contract so one preset restyles all of it.
+
+**Text animations.** Shimmer, glitch, scribble, and morph effects for headlines, all free and installable on their own.
 
 **Cinematic interactions.** Scroll-scrubbed sequences, morphing backgrounds, and
 marquees that hold their frame rate.
