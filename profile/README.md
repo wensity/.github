@@ -29,6 +29,7 @@ npx wensity@latest add button
 | --- | --- |
 | [registry](https://github.com/wensity/registry) | The public shadcn registry. 70 free components, UI primitives, fonts, and design tokens, all MIT |
 | [cli](https://github.com/wensity/cli) | The `wensity` command line tool for installing components and applying Tailwind presets |
+| [nextjs-starter](https://github.com/wensity/nextjs-starter) | Next.js 16 and Tailwind v4 starter whose whole design system swaps from one preset code |
 
 The Wensity product itself is closed source. These repositories hold the parts
 meant to run inside your project.
