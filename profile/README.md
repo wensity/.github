@@ -25,12 +25,12 @@ your repository and it is yours to edit.
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/gooey-navigation-menu.gif" alt="A floating action button whose child actions stretch out in an arc" width="100%">
-      <br><sub>Gooey Navigation Menu</sub>
+      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/stack-reveal.gif" alt="A deck of landscape cards promoting one plate at a time" width="100%">
+      <br><sub>Stack Reveal</sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/text-shimmer.gif" alt="A highlight sweeping across a headline" width="100%">
-      <br><sub>Text Shimmer</sub>
+      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/refraction-glass-container.gif" alt="A glass card bending the colour blobs drifting behind it" width="100%">
+      <br><sub>Refraction Glass Container</sub>
     </td>
   </tr>
 </table>
