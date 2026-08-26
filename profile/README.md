@@ -12,6 +12,31 @@ your repository and it is yours to edit.
 [Docs](https://ui.wensity.com/docs) ·
 [@wensitylabs](https://x.com/wensitylabs)
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/gooey-navigation-menu.gif" alt="A floating action button whose child actions stretch out in an arc" width="100%">
+      <br><sub>Gooey Navigation Menu</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/voice-aurora-wave.gif" alt="A breathing voice orb that pulses with audio" width="100%">
+      <br><sub>Voice Aurora Wave</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/morphing-shape-background.gif" alt="Lava-lamp blobs drifting behind a hero section" width="100%">
+      <br><sub>Morphing Shape Background</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/wensity/.github/main/profile/media/text-shimmer.gif" alt="A highlight sweeping across a headline" width="100%">
+      <br><sub>Text Shimmer</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>All four are free and installable today.</sub></p>
+
 ## Start here
 
 ```bash
